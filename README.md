@@ -1,7 +1,7 @@
 <h1 align="center"> Stage 02 - EXPLORER </h1>
 
 <p align="center">
-Desafio desenvolvido durante as aulas do módulo 1 do Stage 02 do curso Explorer - Site de empresa de móveis custumizados<br/>
+Desafio desenvolvido durante as aulas do módulo 1 do Stage 02 do curso Explorer<br/>
 </p>
 
 <p align="center">
@@ -14,7 +14,7 @@ Desafio desenvolvido durante as aulas do módulo 1 do Stage 02 do curso Explorer
 
 
 <p align="center">
-  <img alt="Projeto Moveis custumizados" src=".github/preview.png" width="100%">
+  <img alt="Projeto Moveis customizados" src=".github/preview.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
